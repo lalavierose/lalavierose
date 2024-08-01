@@ -8,6 +8,11 @@ Currently working on a chrome extension for my bilingual folks who just happen t
 I'm open to finding people to connect and share knowledge and experiences with ! I love to sew and do art in my free time~
 Thank you for checking out my page <3
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@glitterberri/30-nites-of-code)  
+  ![@glitterberri #30NitesOfCode](https://www.codedex.io/api/petStatus?user=glitterberri)
+  
 <!--
 **lalavierose/lalavierose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
